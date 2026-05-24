@@ -33,7 +33,7 @@ ollama run llama3.1
 
 ### 2. Projeyi Klonlayın
 ```bash
-git clone https://github.com/KULLANICI_ADIN/rag-chatbot.git
+git clone https://github.com/KULLANICI_ADINIZ/rag-chatbot.git
 cd rag-chatbot
 ```
 
