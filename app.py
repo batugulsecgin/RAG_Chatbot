@@ -61,6 +61,8 @@ with st.sidebar:
 
     st.divider()
     st.info("💡 Sadece buraya eklediğiniz belgeler kullanılarak cevap üretilecektir.")
+    st.info("💡 Chatbot'a yüklenmiş belge yabancı dilde ise sorunuzu yüklemiş olduğunuz belge ile aynı dilde sormak faydalı olabilir.")
+    st.info("   Denediğiniz için teşekkürler... (Batu Gülseçgin)")
 
 # --- ANA EKRAN: SOHBET ARAYÜZÜ (Hafızalı) ---
 if "messages" not in st.session_state:
