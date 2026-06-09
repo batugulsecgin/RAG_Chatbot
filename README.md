@@ -52,8 +52,7 @@ streamlit run app.py
 ```
 
 ## 📂 Proje Yapısı
-- **app.py:** Streamlit arayüzü ve uygulamanın ana başlangıç noktası.
 
-- **database.py:** SQLite veritabanı bağlantısı, tablo oluşturma, veri kaydetme ve arama fonksiyonları.
-
-- **llm_handler.py:** Ollama API entegrasyonu, prompt oluşturma ve sohbet hafızası yönetimi.
+- `app.py` — Streamlit arayüzü ve uygulamanın ana başlangıç noktası.
+- `database.py` — SQLite veritabanı bağlantısı, tablo oluşturma, veri kaydetme ve arama fonksiyonları.
+- `llm_handler.py` — Ollama API entegrasyonu, prompt oluşturma ve sohbet hafızası yönetimi.
