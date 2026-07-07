@@ -4,6 +4,8 @@ Bu proje, tamamen yerel ortamda çalışan, gizlilik odaklı ve **RAG (Retrieval
 
 Sistem, dışarıdan bilgi uydurmasını (hallucination) engelleyen sıkı bir prompt mühendisliği ve önceki sohbetleri hatırlamasını sağlayan bağlamsal hafıza (contextual memory) ile donatılmıştır.
 
+![Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=SENIN_KULLANICI_ADIN&color=blue)
+
 ## 🚀 Özellikler
 
 - **%100 Yerel ve Ücretsiz:** Ollama altyapısı sayesinde hiçbir bulut servisine veri gönderilmez, API ücreti ödenmez.
