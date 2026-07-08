@@ -4,7 +4,7 @@ Bu proje, tamamen yerel ortamda çalışan, gizlilik odaklı ve **RAG (Retrieval
 
 Sistem, dışarıdan bilgi uydurmasını (hallucination) engelleyen sıkı bir prompt mühendisliği ve önceki sohbetleri hatırlamasını sağlayan bağlamsal hafıza (contextual memory) ile donatılmıştır.
 
-![Proje Görüntülenmesi](https://komarev.com/ghpvc/?username=batugulsecgin-RAG_Chatbot&color=blue)
+![Proje Görüntülenmesi](https://komarev.com/ghpvc/?username=batugulsecgin-rag_chatbot&color=blue)
 
 ## 🚀 Özellikler
 
